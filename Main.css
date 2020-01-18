@@ -75,6 +75,8 @@ a {
 }
 .column{
 	column-count: 2;
+	column-fill: balance;
+	height: 400px;	
 
 }
 .div1_column{
